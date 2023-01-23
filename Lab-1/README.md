@@ -6,6 +6,8 @@
 6. 8255’in 0. ucuna bağlı düğmeye her basıldığında 7 parçalı göstergede sırasıyla A, B, C ve D harfleri görünecektir.
 7. 8255’in 4. ucuna bağlı düğmeye her basıldığında gösterge sıfırlanıp, 0 rakamı görünecektir
 
+NOT: pdsprj uzantılı devre dosyasında assembly kodu da yer almaktadır ama ayrı bir dosya olarak da kodu ekledim.
+
 Devrenin tasarımı resimdeki gibidir.
 <img width="1235" alt="Ekran Resmi 2023-01-23 19 59 37" src="https://user-images.githubusercontent.com/83477882/214105359-a41c1a1a-e1a9-47f2-a61d-c5dd825844f7.png">
 
